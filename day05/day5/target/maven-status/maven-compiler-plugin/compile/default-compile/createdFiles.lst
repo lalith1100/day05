@@ -1,0 +1,5 @@
+com\example\demo\entity\Access.class
+com\example\demo\controller\AccessController.class
+com\example\demo\repository\AccessRepository.class
+com\example\demo\OnlineTradingApplication.class
+com\example\demo\service\AccessService.class
